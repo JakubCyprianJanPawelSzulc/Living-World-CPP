@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4dc1103-d0ff-4cc6-95f7-82c71ddd31d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/LivingWorld.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Sheep.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Sheep.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Sheep.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Sheep.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Wolf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Wolf.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Wolf.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Animals/Wolf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Dandelion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Dandelion.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Dandelion.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Dandelion.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Grass.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Grass.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Grass.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Grass.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Toadstool.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Toadstool.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Toadstool.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Plants/Toadstool.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Animal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Animal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Animal.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Animal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Organism.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Organism.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Organism.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Organism.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Plant.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Plant.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Plant.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Organisms/Species/Plant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Utils/Position.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Utils/Position.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Utils/Position.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Utils/Position.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Utils/World.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Utils/World.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LivingWorld/Utils/World.h" beforeDir="false" afterPath="$PROJECT_DIR$/LivingWorld/Utils/World.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d5b56beecf4403271302.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6d5ae8058dad74a565e4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-de8f3359150210d3f216.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-13T10-32-28-0132.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Living_World_New-Debug-64c39d718efa2bd4d82e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-0ede707d25af549e0ca0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Living_World.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Animals/Sheep.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Animals/Wolf.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Plants/Dandelion.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Plants/Grass.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Plants/Toadstool.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Species/Animal.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Species/Organism.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Organisms/Species/Plant.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Utils/Position.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Living_World_New.dir/Utils/World.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Living_World_New.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/JSadr/Desktop/studia/semestr4/cpp/Projekt-1/01_living_world-JakubCyprianJanPawelSzulc/LivingWorld",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4dc1103-d0ff-4cc6-95f7-82c71ddd31d6" name="Changes" comment="" />
+      <created>1683130726158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683130726158</updated>
+      <workItem from="1683130727905" duration="3716000" />
+      <workItem from="1683905809396" duration="74000" />
+      <workItem from="1686648010330" duration="34000" />
+      <workItem from="1686652007247" duration="140000" />
+      <workItem from="1686653301975" duration="48000" />
+      <workItem from="1686686956084" duration="415000" />
+      <workItem from="1686687894695" duration="59000" />
+      <workItem from="1686687972525" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

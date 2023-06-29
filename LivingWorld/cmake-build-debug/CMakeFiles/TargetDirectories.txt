@@ -1,0 +1,3 @@
+C:/Users/JSadr/Desktop/studia/semestr4/cpp/Projekt-1/01_living_world-JakubCyprianJanPawelSzulc/LivingWorld/cmake-build-debug/CMakeFiles/Living_World_New.dir
+C:/Users/JSadr/Desktop/studia/semestr4/cpp/Projekt-1/01_living_world-JakubCyprianJanPawelSzulc/LivingWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JSadr/Desktop/studia/semestr4/cpp/Projekt-1/01_living_world-JakubCyprianJanPawelSzulc/LivingWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

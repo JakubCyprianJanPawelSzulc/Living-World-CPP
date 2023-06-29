@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Living_World_New",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Living_World_New::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Living_World_New-Debug-e68c9cc5bd10447dd3c8.json",
+					"name" : "Living_World_New",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/JSadr/Desktop/studia/semestr4/cpp/Projekt-1/01_living_world-JakubCyprianJanPawelSzulc/LivingWorld/cmake-build-debug",
+		"source" : "C:/Users/JSadr/Desktop/studia/semestr4/cpp/Projekt-1/01_living_world-JakubCyprianJanPawelSzulc/LivingWorld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

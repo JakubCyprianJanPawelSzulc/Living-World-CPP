@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\JSadr\Desktop\studia\semestr4\cpp\Projekt-1\01_living_world-JakubCyprianJanPawelSzulc Select CMakeLists.txt
